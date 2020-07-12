@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 ## School 🏫
-- 🎓 Graduating date: **May 2021**
+- 🎓 Graduation date: **May 2021**
 - 💻 Majors: **Computer Engineering & Computer Science**
 
 ## Employment
@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/dylanrichards)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dylanrichards.visitor-badge)
 
 <!--
 ### Previous Internships
