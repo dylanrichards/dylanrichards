@@ -1,15 +1,21 @@
-<h1 align="center">Welcome 👋, I'm Dylan</h1>
+<h1 align="center">Welcome! 👋</h1>
 <h3 align="center">A senior studying Computer Engineering and Computer Science at Central Michigan University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanrichards&label=Profile%20views&color=0e75b6&style=flat" alt="dylanrichards" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dylanrichards&label=Profile%20views&color=0e75b6&style=flat" alt="dylanrichards" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanrichards" alt="dylanrichards" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dylanrichards81" target="blank"><img src="https://img.shields.io/twitter/follow/dylanrichards81?logo=twitter&style=for-the-badge" alt="dylanrichards81" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dylan.udylity.com/portfolio](https://dylan.udylity.com/portfolio)
+<p align="left">
+  <a href="https://dylan.udylity.com/employment"/>
+    <h3>Employment</h3>
+  </a>
+  <img src="https://symbols.getvecta.com/stencil_72/9_3m-icon.991f700c19.svg" width="64"/>
+</p>
 
-- 📄 Know about my experiences [https://dylan.udylity.com/employment](https://dylan.udylity.com/employment)
+- Software Engineer - (Aug 2020 - present)
+- R&D IT Intern (May 2020 - Aug 2020)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
