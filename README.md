@@ -14,7 +14,7 @@
   <img src="https://symbols.getvecta.com/stencil_72/9_3m-icon.991f700c19.svg" width="64"/>
 </p>
 
-- Software Engineer - (Aug 2020 - present)
+- Software Engineer - (Aug 2020 - Dec 2020)
 - R&D IT Intern (May 2020 - Aug 2020)
 
 <p align="left">
