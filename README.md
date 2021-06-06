@@ -1,11 +1,8 @@
 <h1 align="center">Welcome! 👋</h1>
-<h3 align="center">A senior studying Computer Engineering and Computer Science at Central Michigan University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dylanrichards&label=Profile%20views&color=0e75b6&style=flat" alt="dylanrichards" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanrichards" alt="dylanrichards" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dylanrichards81" target="blank"><img src="https://img.shields.io/twitter/follow/dylanrichards81?logo=twitter&style=for-the-badge" alt="dylanrichards81" /></a> </p>
 
 <p align="left">
   <a href="https://dylan.udylity.com/employment"/>
@@ -15,8 +12,7 @@
 </p>
 
 - DevOps Engineer (Jun 2021 - Present)
-- Software Engineer (Aug 2020 - Dec 2020)
-- R&D IT Intern (May 2020 - Aug 2020)
+- Software Engineer Intern (May 2020 - Dec 2020)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
