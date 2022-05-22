@@ -2,13 +2,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dylanrichards&label=Profile%20views&color=0e75b6&style=flat" alt="dylanrichards" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanrichards" alt="dylanrichards" /></a> </p>
-
 <p align="left">
   <a href="https://dylan.udylity.com/employment"/>
     <h3>Employment</h3>
   </a>
-  <img src="https://symbols.getvecta.com/stencil_72/9_3m-icon.991f700c19.svg" width="64"/>
+  <img src="3m-icon.svg" width="64"/>
 </p>
 
 - DevOps Engineer (Jun 2021 - Present)
