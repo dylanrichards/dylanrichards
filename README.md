@@ -2,14 +2,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dylanrichards&label=Profile%20views&color=0e75b6&style=flat" alt="dylanrichards" /> </p>
 
-<p align="left">
+<p>
   <a href="https://dylan.udylity.com/employment"/>
-    <h3>Employment</h3>
+    <h2>Employment</h2>
   </a>
+</p>
+
+<img src="garda.jpg" width="128">
+
+- Jr. Software Engineer (Jun 2022 - Present)
+
+<p align="left">
   <img src="3m-icon.svg" width="64"/>
 </p>
 
-- DevOps Engineer (Jun 2021 - Present)
+- DevOps Engineer (Jun 2021 - Jun 2022)
 - Software Engineer Intern (May 2020 - Dec 2020)
 
 <p align="left">
