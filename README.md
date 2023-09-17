@@ -10,7 +10,8 @@
 
 <img src="garda.jpg" width="128">
 
-- Jr. Software Engineer (Jun 2022 - Present)
+- Software Engineer (Jul 2023 - Present)
+- Jr. Software Engineer (Jun 2022 - Jul 2023)
 
 <p align="left">
   <img src="3m-icon.svg" width="64"/>
