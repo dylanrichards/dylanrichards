@@ -10,7 +10,8 @@
 
 <img src="garda.jpg" width="128">
 
-- Software Engineer (Jul 2023 - Present)
+- Sr. Software Engineer (Jan 2025 - Present)
+- Software Engineer (Jul 2023 - Jan 2025)
 - Jr. Software Engineer (Jun 2022 - Jul 2023)
 
 <p align="left">
